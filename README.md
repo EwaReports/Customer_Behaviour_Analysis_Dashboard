@@ -2,10 +2,11 @@
 SQL &amp; Power BI dashboard analyzing customer behavior, purchasing patterns, and customer segments. Includes data preparation, analytical views, DAX measures, and interactive visualizations.
 # Dashboard View
 <img width="1949" height="1077" alt="obraz" src="https://github.com/user-attachments/assets/82b7e6a2-fde8-45f1-af3b-b03aea95122b" />
+
 # Business Problem
 The objective of this analysis was to explore customer profiles and purchasing behavior in order to identify customer segments, understand buying patterns, and support data-driven business decisions.
+
 # Dataset
-Dataset
 The dataset used in this project is the AdventureWorks database (SQL Server sample database).
 The following tables were used:
 
